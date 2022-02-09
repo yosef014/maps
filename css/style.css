@@ -1,0 +1,24 @@
+.my-location-bt{
+
+    background-color: rgba(251, 251, 251, 0);
+    position: fixed;
+    top: 440px;
+    left: 10px;
+    width: 60px;
+    height: 60px;
+    font-size: 50px
+}
+
+#map{
+    position: relative;
+}
+.container-fluid{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.locationsList{
+    width: 50%;
+
+}
